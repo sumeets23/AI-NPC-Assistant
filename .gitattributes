@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.fbx filter=lfs diff=lfs merge=lfs -text
 Assets/Resources/Avatars/Alireza-Avaturn/Amber.Fbx filter=lfs diff=lfs merge=lfs -text
