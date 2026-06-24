@@ -1,6 +1,6 @@
 # AI NPC Framework for Unity
 
-# AI NPC Framework for Unity
+
 
 <img width="3037" height="1695" alt="Screenshot 2026-06-23 160727" src="https://github.com/user-attachments/assets/c5c6f33c-e853-414c-b2c3-e2f8ca2296ea" />
 
